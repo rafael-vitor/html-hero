@@ -130,3 +130,37 @@ body {
   color: #818693;
   text-align: center;
 }
+
+.figures {
+  background-color: #4dc3f9;
+  text-align: center;
+  padding: 64px;
+}
+
+.figures h2 {
+  font-size: 38px;
+  font-family: 'Roboto Mono', sans-serif;
+  font-weight: 500;
+  color: white;
+  margin-top: 0;
+  margin-bottom: 24px;
+}
+
+.figure-items {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.figure-item {
+  text-align: center;
+}
+
+.figure-item-number {
+  font-size: 96px;
+  font-family: 'Roboto Mono', sans-serif;
+}
+
+.figure-item-text {
+  font-size: 20px;
+  text-transform: uppercase;
+}
